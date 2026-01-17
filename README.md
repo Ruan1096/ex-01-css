@@ -23,3 +23,8 @@ index.html: Estrutura de conteúdo e links de navegação.
 style.css: Folha de estilo contendo toda a lógica visual, resets de margens e estilização de componentes.
 
 Illustration 2.png: Elemento visual principal (Hero Image).
+
+
+Previa: 
+<img width="697" height="402" alt="image" src="https://github.com/user-attachments/assets/97eaef6b-fb6f-4073-8df2-2b54ad1fe02e" />
+
